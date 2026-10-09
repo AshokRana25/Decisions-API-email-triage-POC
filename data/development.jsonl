@@ -1,0 +1,1 @@
+{"id": "development-01", "split": "development", "synthetic": true, "subject": "Export error", "body": "Our CSV export has an error. Refreshing did not help. Could you investigate?", "expected": {"action_required": true, "workflow": "technical", "urgency": 1, "must_review": false}}
